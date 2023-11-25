@@ -1,0 +1,92 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Set a pleasant background */
+body {
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+/* Center the flag and make it smaller */
+.Flag-Wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Flag-Wrapper img {
+    max-width: 300px;
+    max-height: 250px;
+    transition: none;
+}
+
+/* Style the flag game container */
+.FlagGame {
+    background: pink;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Style the options */
+.options {
+    text-align: center;
+}
+
+/* Make the options buttons simpler and wider */
+.optionButton {
+    font-size: 19px;
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s ease;
+    width: 200px;
+}
+
+/* Add a slight hover effect for the buttons */
+.optionButton:hover {
+    background: #2980b9;
+}
+
+/* Add a click effect to the buttons */
+.optionButton:active {
+    background: #1c6f9e;
+}
+
+
+/* Style the score and lives divs */
+.score, .lives {
+    font-weight: bold;
+    font-size: 15px;
+    background: #66f792;
+    color: rgb(238, 16, 79);
+    padding: 8px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding-left: 10px;
+}

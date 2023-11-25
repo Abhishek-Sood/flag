@@ -1,0 +1,1959 @@
+[
+    {
+        "img": "/img/af.png",
+        "options": [
+            "afghanistan",
+            "india",
+            "uruguay",
+            "costa rica"
+        ],
+        "right_answer": "afghanistan"
+    },
+    {
+        "img": "/img/ax.png",
+        "options": [
+            "palestine",
+            "saudi arabia",
+            "Åland Islands",
+            "sierra leone"
+        ],
+        "right_answer": "Åland Islands"
+    },
+    {
+        "img": "/img/al.png",
+        "options": [
+            "vietnam",
+            "somalia",
+            "albania",
+            "malawi"
+        ],
+        "right_answer": "albania"
+    },
+    {
+        "img": "/img/dz.png",
+        "options": [
+            "sierra leone",
+            "rwanda",
+            "algeria",
+            "indonesia"
+        ],
+        "right_answer": "algeria"
+    },
+    {
+        "img": "/img/as.png",
+        "options": [
+            "cameroon",
+            "france",
+            "ghana",
+            "american samoa"
+        ],
+        "right_answer": "american samoa"
+    },
+    {
+        "img": "/img/ad.png",
+        "options": [
+            "moldova",
+            "chad",
+            "andorra",
+            "bolivia"
+        ],
+        "right_answer": "andorra"
+    },
+    {
+        "img": "/img/ao.png",
+        "options": [
+            "vietnam",
+            "angola",
+            "albania",
+            "france"
+        ],
+        "right_answer": "angola"
+    },
+    {
+        "img": "/img/ai.png",
+        "options": [
+            "syria",
+            "egypt",
+            "iraq",
+            "anguilla"
+        ],
+        "right_answer": "anguilla"
+    },
+    {
+        "img": "/img/aq.png",
+        "options": [
+            "vietnam",
+            "antartica",
+            "united states of america",
+            "india"
+        ],
+        "right_answer": "antartica"
+    },
+    {
+        "img": "/img/ag.png",
+        "options": [
+            "palestine",
+            "united arab emirates",
+            "sudan",
+            "Antigua and Barbuda"
+        ],
+        "right_answer": "Antigua and Barbuda"
+    },
+    {
+        "img": "/img/ar.png",
+        "options": [
+            "argentina",
+            "brazil",
+            "albania",
+            "panama"
+        ],
+        "right_answer": "argentina"
+    },
+    {
+        "img": "/img/am.png",
+        "options": [
+            "vietnam",
+            "somalia",
+            "armenia",
+            "malawi"
+        ],
+        "right_answer": "armenia"
+    },
+    {
+        "img": "/img/aw.png",
+        "options": [
+            "aruba",
+            "latvia",
+            "austria",
+            "malawi"
+        ],
+        "right_answer": "aruba"
+    },
+    {
+        "img": "/img/au.png",
+        "options": [
+            "new zealand",
+            "oceania",
+            "australia",
+            "iran"
+        ],
+        "right_answer": "australia"
+    },
+    {
+        "img": "/img/at.png",
+        "options": [
+            "lithuania",
+            "latvia",
+            "austria",
+            "iran"
+        ],
+        "right_answer": "austria"
+    },
+    {
+        "img": "/img/az.png",
+        "options": [
+            "hong kong",
+            "Haiti",
+            "Timor-Leste",
+            "Azerbaijan"
+        ],
+        "right_answer": "Azerbaijan"
+    },
+    {
+        "img": "/img/bs.png",
+        "options": [
+            "rwanda",
+            "guinea",
+            "bahamas",
+            "sierra leone"
+        ],
+        "right_answer": "bahamas"
+    },
+    {
+        "img": "/img/bh.png",
+        "options": [
+            "bahrain",
+            "qatar",
+            "lebanon",
+            "polonia"
+        ],
+        "right_answer": "bahrain"
+    },
+    {
+        "img": "/img/bd.png",
+        "options": [
+            "monaco",
+            "maldives",
+            "bangladesh",
+            "morocco"
+        ],
+        "right_answer": "bangladesh"
+    },
+    {
+        "img": "/img/bb.png",
+        "options": [
+            "barbados",
+            "maldives",
+            "Zimbabwe",
+            "morocco"
+        ],
+        "right_answer": "barbados"
+    },
+    {
+        "img": "/img/by.png",
+        "options": [
+            "belerus",
+            "syria",
+            "yemen",
+            "palestine"
+        ],
+        "right_answer": "belerus"
+    },
+    {
+        "img": "/img/be.png",
+        "options": [
+            "belgium",
+            "ireland",
+            "germany",
+            "france"
+        ],
+        "right_answer": "belgium"
+    },
+    {
+        "img": "/img/bz.png",
+        "options": [
+            "cameroon",
+            "brazil",
+            "belize",
+            "benin"
+        ],
+        "right_answer": "belize"
+    },
+    {
+        "img": "/img/bj.png",
+        "options": [
+            "hungary",
+            "lithuania",
+            "benin",
+            "bolivia"
+        ],
+        "right_answer": "benin"
+    },
+    {
+        "img": "/img/bm.png",
+        "options": [
+            "guatemala",
+            "bermuda",
+            "uruguay",
+            "costa rica"
+        ],
+        "right_answer": "bermuda"
+    },
+    {
+        "img": "/img/bt.png",
+        "options": [
+            "zambia",
+            "libya",
+            "bhutan",
+            "burundi"
+        ],
+        "right_answer": "bhutan"
+    },
+    {
+        "img": "/img/bo.png",
+        "options": [
+            "Bolivia (Plurinational State of)",
+            "chile",
+            "brazil",
+            "panama"
+        ],
+        "right_answer": "Bolivia (Plurinational State of)"
+    },
+    {
+        "img": "/img/bq.png",
+        "options": [
+            "togo",
+            "bolivia",
+            "tunisia",
+            "Bonaire, Sint Eustatius and Saba"
+        ],
+        "right_answer": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "img": "/img/ba.png",
+        "options": [
+            "Togo",
+            "Haiti",
+            "laos",
+            "Bosnia and Herzegovina"
+        ],
+        "right_answer": "Bosnia and Herzegovina"
+    },
+    {
+        "img": "/img/bw.png",
+        "options": [
+            "Bolivia (Plurinational State of)",
+            "Bonaire, Sint Eustatius and Saba",
+            "Botswana",
+            "Bouvet Island"
+        ],
+        "right_answer": "Botswana"
+    },
+    {
+        "img": "/img/br.png",
+        "options": [
+            "venezuela",
+            "colombia",
+            "ecuador",
+            "brazil"
+        ],
+        "right_answer": "brazil"
+    },
+    {
+        "img": "/img/io.png",
+        "options": ["United States Minor Outlying Islands", "Virgin Islands (U.S.)", "Virgin Islands (British)", "British Indian Ocean Territory"],
+        "right_answer": "British Indian Ocean Territory"
+    },
+    {
+        "img": "/img/um.png",
+        "options": ["Virgin Islands (British)", "British Indian Ocean Territory", "Virgin Islands (U.S.)", "United States Minor Outlying Islands"],
+        "right_answer": "United States Minor Outlying Islands"
+    },
+    {
+        "img": "/img/vg.png",
+        "options": ["Virgin Islands (British)", "United States Minor Outlying Islands", "British Indian Ocean Territory", "Virgin Islands (U.S.)"],
+        "right_answer": "Virgin Islands (British)"
+    },
+    {
+        "img": "/img/vi.png",
+        "options": ["United States Minor Outlying Islands", "Virgin Islands (U.S.)", "British Indian Ocean Territory", "Virgin Islands (British)"],
+        "right_answer": "Virgin Islands (U.S.)"
+    },
+    {
+        "img": "/img/bn.png",
+        "options": [
+            "puerto rico",
+            "Brunei Darussalam",
+            "cuba",
+            "eritrea"
+        ],
+        "right_answer": "Brunei Darussalam"
+    },
+    
+    {
+        "img": "/img/bg.png",
+        "options": [
+            "bulgaria",
+            "qatar",
+            "lebanon",
+            "polonia"
+        ],
+        "right_answer": "bulgaria"
+    },
+    {
+        "img": "/img/bf.png",
+        "options": [
+            "Madagascar",
+            "Vanuatu",
+            "burkina fiso",
+            "nicaragua"
+        ],
+        "right_answer": "burkina fiso"
+    },
+    {
+        "img": "/img/bi.png",
+        "options": [
+            "zambia",
+            "libya",
+            "south africa",
+            "burundi"
+        ],
+        "right_answer": "burundi"
+    },
+    {
+        "img": "/img/kh.png",
+        "options": ["Thailand", "Cambodia", "Laos", "Vietnam"],
+        "right_answer": "Cambodia"
+    },    
+    {
+        "img": "/img/cm.png",
+        "options": [
+            "cameroon",
+            "ghana",
+            "guinea",
+            "slovenia"
+        ],
+        "right_answer": "cameroon"
+    },
+    {
+        "img": "/img/ca.png",
+        "options": [
+            "canada",
+            "egypt",
+            "tunisia",
+            "mexico"
+        ],
+        "right_answer": "canada"
+    },
+    {
+        "img": "/img/cv.png",
+        "options": [
+            "Madagascar",
+            "cabo verde",
+            "cayman islands",
+            "cuba"
+        ],
+        "right_answer": "cabo verde"
+    },
+    {
+        "img": "/img/ky.png",
+        "options": [
+            "Madagascar",
+            "cabo verde",
+            "cayman islands",
+            "cuba"
+        ],
+        "right_answer": "cayman islands"
+    },
+    {
+        "img": "/img/cf.png",
+        "options": [
+            "zambia",
+            "libya",
+            "south africa",
+            "Central African Republic"
+        ],
+        "right_answer": "Central African Republic"
+    },
+    {
+        "img": "/img/td.png",
+        "options": ["Cameroon", "Chad", "Niger", "Sudan"],
+        "right_answer": "Chad"
+    },    
+    {
+        "img": "/img/cl.png",
+        "options": [
+            "bolivia",
+            "chile",
+            "brazil",
+            "panama"
+
+        ],
+        "right_answer": "chile"
+    },
+    {
+        "img": "/img/cn.png",
+        "options": [
+            "vietnam",
+            "taiwan",
+            "china",
+            "hungary"
+        ],
+        "right_answer": "china"
+    },
+    {
+        "img": "/img/cx.png",
+        "options": [
+            "liechtenstein",
+            "Cocos (Keeling) Islands",
+            "mongolia",
+            "Christmas Island"
+        ],
+        "right_answer": "Christmas Island"
+    },
+    {
+        "img": "/img/cc.png",
+        "options": [
+            "liechtenstein",
+            "Cocos (Keeling) Islands",
+            "mongolia",
+            "colombia"
+        ],
+        "right_answer": "Cocos (Keeling) Islands"
+    },
+    {
+        "img": "/img/co.png",
+        "options": [
+            "venezuela",
+            "colombia",
+            "ecuador",
+            "brazil"
+        ],
+        "right_answer": "colombia"
+    },
+    {
+        "img": "/img/km.png",
+        "options": [
+            "venezuela",
+            "comoros",
+            "ecuador",
+            "brazil"
+        ],
+        "right_answer": "comoros"
+    },
+    {
+        "img": "/img/cg.png",
+        "options": [
+            "Congo",
+            "zimbabwe",
+            "mozambique",
+            "niger"
+        ],
+        "right_answer": "Congo"
+    },
+    {
+        "img": "/img/cd.png",
+        "options": [
+            "Congo (Democratic Republic of the)",
+            "zimbabwe",
+            "mozambique",
+            "Congo"
+        ],
+        "right_answer": "Congo (Democratic Republic of the)"
+    },
+    {
+        "img": "/img/cc.png",
+        "options": [
+            "liechtenstein",
+            "Cook Islands",
+            "Cocos (Keeling) Islands",
+            "Christmas Island"
+        ],
+        "right_answer": "Cook Islands"
+    },
+    {
+        "img": "/img/cr.png",
+        "options": [
+            "guatemala",
+            "argentina",
+            "uruguay",
+            "costa rica"
+        ],
+        "right_answer": "costa rica"
+    },
+    {
+        "img": "/img/hr.png",
+        "options": [
+            "guatemala",
+            "madagascar",
+            "crotia",
+            "costa rica"
+        ],
+        "right_answer": "crotia"
+    },
+    {
+        "img": "/img/cu.png",
+        "options": [
+            "Madagascar",
+            "nepal",
+            "Benin",
+            "cuba"
+        ],
+        "right_answer": "cuba"
+    },
+    {
+        "img": "/img/cw.png",
+        "options": [
+            "cyprus",
+            "croatia",
+            "Curaçao",
+            "cuba"
+        ],
+        "right_answer": "Curaçao"
+    },
+    {
+        "img": "/img/cy.png",
+        "options": [
+            "cyprus",
+            "croatia",
+            "Curaçao",
+            "cuba"
+        ],
+        "right_answer": "cyprus"
+    },
+    {
+        "img": "/img/cz.png",
+        "options": [
+            "Czech Republic",
+            "croatia",
+            "Curaçao",
+            "cuba"
+        ],
+        "right_answer": "Czech Republic"
+    },
+    {
+        "img": "/img/dk.png",
+        "options": [
+            "denmark",
+            "tajikistan",
+            "germany",
+            "kyrgyzstan"
+        ],
+        "right_answer": "denmark"
+    },
+    {
+        "img": "/img/dj.png",
+        "options": [
+            "denmark",
+            "tajikistan",
+            "Djibouti",
+            "dominica"
+        ],
+        "right_answer": "Djibouti"
+    },
+    {
+        "img": "/img/dm.png",
+        "options": [
+            "guinea",
+            "mali",
+            "dominica",
+            "Dominican Republic"
+        ],
+        "right_answer": "dominica"
+    },
+    {
+        "img": "/img/do.png",
+        "options": [
+            "guinea",
+            "mali",
+            "dominica",
+            "Dominican Republic"
+        ],
+        "right_answer": "Dominican Republic"
+    },
+    {
+        "img": "/img/ec.png",
+        "options": [
+            "venezuela",
+            "colombia",
+            "ecuador",
+            "brazil"
+        ],
+        "right_answer": "ecaudor"
+    },
+    {
+        "img": "/img/eg.png",
+        "options": [
+            "syria",
+            "egypt",
+            "iraq",
+            "east timor"
+        ],
+        "right_answer": "egypt"
+    },
+    {
+        "img": "/img/sv.png",
+        "options": ["Honduras", "Nicaragua", "El Salvador", "Guatemala"],
+        "right_answer": "El Salvador"
+    },    
+    {
+        "img": "/img/gq.png",
+        "options": [
+            "peru",
+            "eritrea",
+            "Equatorial Guinea",
+            "estonia"           
+        ],
+        "right_answer": "Equatorial Guinea"
+    },
+    {
+        "img": "/img/er.png",
+        "options": [
+            "peru",
+            "eritrea",
+            "spain",
+            "estonia"           
+        ],
+        "right_answer": "eritrea"
+    },
+    {
+        "img": "/img/ee.png",
+        "options": [
+            "peru",
+            "eritrea",
+            "spain",
+            "estonia"           
+        ],
+        "right_answer": "estonia"
+    },
+    {
+        "img": "/img/et.png",
+        "options": [
+            "peru",
+            "eritrea",
+            "spain",
+            "ethiopia"           
+        ],
+        "right_answer": "ethiopia"
+    },
+    {
+        "img": "/img/fk.png",
+        "options": [
+            "Faroe Islands",
+            "finland",
+            "fiji",
+            "Falkland Islands (Mlavinas)"
+        ],
+        "right_answer": "Falkland Islands (Mlavinas)"
+    },
+    {
+        "img": "/img/fo.png",
+        "options": [
+            "Faroe Islands",
+            "finland",
+            "fiji",
+            "Falkland Islands (Mlavinas)"
+        ],
+        "right_answer": "Faroe Islands"
+    },
+    {
+        "img": "/img/fj.png",
+        "options": [
+            "ethiopia",
+            "finland",
+            "fiji",
+            "Falkland Islands (Mlavinas)"
+        ],
+        "right_answer": "fiji"
+    },
+    {
+        "img": "/img/fi.png",
+        "options": [
+            "ethiopia",
+            "finland",
+            "fiji",
+            "niger"
+        ],
+        "right_answer": "finland"
+    },
+    {
+        "img": "/img/fr.png",
+        "options": [
+            "belgium",
+            "ireland",
+            "germany",
+            "france"
+        ],
+        "right_answer": "france"
+    },
+    {
+        "img": "/img/gf.png",
+        "options": [
+            "greeland",
+            "gibraltar",
+            "french polynesia",
+            "french guiana"
+        ],
+        "right_answer": "french guiana"
+    },
+    {
+        "img": "/img/pf.png",
+        "options": ["French Southern Territories", "New Caledonia", "French Polynesia", "Guam"],
+        "right_answer": "French Polynesia"
+    },    
+    {
+        "img": "/img/tf.png",
+        "options": ["New Caledonia", "French Polynesia", "French Southern Territories", "Guam"],
+        "right_answer": "French Southern Territories"
+    },
+    {
+        "img": "/img/ga.png",
+        "options": [
+            "gabon",
+            "gambia",
+            "french polynesia",
+            "france"
+        ],
+        "right_answer": "gabon"
+    },
+    {
+        "img": "/img/gm.png",
+        "options": [
+            "gabon",
+            "gambia",
+            "french polynesia",
+            "france"
+        ],
+        "right_answer": "gambia"
+    },
+    {
+        "img": "/img/ge.png",
+        "options": [
+            "greeland",
+            "gibraltar",
+            "grenada",
+            "georgia"
+        ],
+        "right_answer": "georgia"
+    },
+    {
+        "img": "/img/dk.png",
+        "options": [
+            "sweden",
+            "denmark",
+            "norway",
+            "russia"
+        ],
+        "right_answer": "denmark"
+    },
+    {
+        "img": "/img/gh.png",
+        "options": [
+            "guatemala",
+            "guadeloupe",
+            "ghana",
+            "guernsey"
+        ],
+        "right_answer": "ghana"
+    },
+    {
+        "img": "/img/gi.png",
+        "options": [
+            "guatemala",
+            "guadeloupe",
+            "guam",
+            "gibraltar"
+        ],
+        "right_answer": "gibraltar"
+    },
+    {
+        "img": "/img/gr.png",
+        "options": [
+            "guatemala",
+            "guadeloupe",
+            "greece",
+            "scotland"
+        ],
+        "right_answer": "greece"
+    },
+    {
+        "img": "/img/gl.png",
+        "options": [
+            "guatemala",
+            "greenland",
+            "guam",
+            "gibraltar"
+        ],
+        "right_answer": "greenland"
+    },
+    {
+        "img": "/img/gd.png",
+        "options": [
+            "greeland",
+            "gibraltar",
+            "grenada",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "right_answer": "grenada"
+    },
+    {
+        "img": "/img/gp.png",
+        "options": [
+            "greeland",
+            "gibraltar",
+            "grenada",
+            "guadeloupe"
+        ],
+        "right_answer": "guadeloupe"
+    },
+    {
+        "img": "/img/gu.png",
+        "options": [
+            "guinea",
+            "guadeloupe",
+            "guam",
+            "guernsey"
+        ],
+        "right_answer": "guam"
+    },
+    {
+        "img": "/img/gt.png",
+        "options": [
+            "guinea",
+            "guadeloupe",
+            "guatemala",
+            "guernsey"
+        ],
+        "right_answer": "guatemala"
+    },
+    {
+        "img": "/img/gg.png",
+        "options": [
+            "guatemala",
+            "guadeloupe",
+            "guam",
+            "guernsey"
+        ],
+        "right_answer": "guernsey"
+    },
+    {
+        "img": "/img/gn.png",
+        "options": [
+            "guinea",
+            "guadeloupe",
+            "guam",
+            "guernsey"
+        ],
+        "right_answer": "guinea"
+    },
+    {
+        "img": "/img/gw.png",
+        "options": [
+            "guinea-Bissau",
+            "guyana",
+            "guam",
+            "hiati"
+        ],
+        "right_answer": "guinea-Bissau"
+    },
+    {
+        "img": "/img/gy.png",
+        "options": [
+            "guinea-Bissau",
+            "guyana",
+            "guam",
+            "hiati"
+        ],
+        "right_answer": "guyana"
+    },
+    {
+        "img": "/img/ht.png",
+        "options": [
+            "guinea-Bissau",
+            "guyana",
+            "guam",
+            "hiati"
+        ],
+        "right_answer": "hiati"
+    },
+    {
+        "img": "/img/hm.png",
+        "options": [
+            "Heard Island and McDonald Islands",
+            "guyana",
+            "honduras",
+            "hungary"
+        ],
+        "right_answer": "hong kong"
+    },
+    {
+        "img": "/img/va.png",
+        "options": [
+            "Heard Island and McDonald Islands",
+            "guyana",
+            "holy see",
+            "hungary"
+        ],
+        "right_answer": "holy see"
+    },
+    {
+        "img": "/img/hn.png",
+        "options": [
+            "Heard Island and McDonald Islands",
+            "guyana",
+            "honduras",
+            "hungary"
+        ],
+        "right_answer": "honduras"
+    },
+    {
+        "img": "/img/hk.png",
+        "options": [
+            "hong kong",
+            "guyana",
+            "honduras",
+            "hungary"
+        ],
+        "right_answer": "hong kong"
+    },
+    {
+        "img": "/img/hu.png",
+        "options": [
+            "hong kong",
+            "ireland",
+            "iceland",
+            "hungary"
+        ],
+        "right_answer": "hungary"
+    },
+    {
+        "img": "/img/is.png",
+        "options": [
+            "bangladesh",
+            "pakistan",
+            "iceland",
+            "ireland"
+        ],
+        "right_answer": "iceland"
+    },
+    {
+        "img": "/img/in.png",
+        "options": [
+            "bangladesh",
+            "pakistan",
+            "indonesia",
+            "india"
+        ],
+        "right_answer": "india"
+    },
+    {
+        "img": "/img/id.png",
+        "options": [
+            "hong kong",
+            "ireland",
+            "indonesia",
+            "hungary"
+        ],
+        "right_answer": "indonesia"
+    },
+    {
+        "img": "/img/ci.png",
+        "options": [
+            "puerto rico",
+            "chile",
+            "cuba",
+            "Côte d'Ivoire"
+        ],
+        "right_answer": "Côte d'Ivoire"
+    }, 
+    {
+        "img": "/img/ir.png",
+        "options": [
+            "iran",
+            "pakistan",
+            "indonesia",
+            "iraq"
+        ],
+        "right_answer": "iran"
+    },
+    {
+        "img": "/img/ir.png",
+        "options": ["Iraq", "Afghanistan", "Iran (Islamic Republic of)", "Syria"],
+        "right_answer": "Iran (Islamic Republic of)"
+    },    
+    {
+        "img": "/img/iq.png",
+        "options": [
+            "iraq",
+            "iran",
+            "israel",
+            "hungary"
+        ],
+        "right_answer": "iraq"
+    },
+    {
+        "img": "/img/ie.png",
+        "options": [
+            "hong kong",
+            "ireland",
+            "iceland",
+            "hungary"
+        ],
+        "right_answer": "ireland"
+    },
+    {
+        "img": "/img/im.png",
+        "options": [
+            "hong kong",
+            "ireland",
+            "guyana",
+            "Isle of man"
+        ],
+        "right_answer": "Isle of man"
+    },
+    {
+        "img": "/img/il.png",
+        "options": [
+            "israel",
+            "ireland",
+            "palestine",
+            "hungary"
+        ],
+        "right_answer": "israel"
+    },
+    {
+        "img": "/img/it.png",
+        "options": [
+            "jordan",
+            "pakistan",
+            "japan",
+            "italy"
+        ],
+        "right_answer": "italy"
+    },
+    {
+        "img": "/img/jm.png",
+        "options": [
+            "jamaica",
+            "japan",
+            "uzbekistan",
+            "india"
+        ],
+        "right_answer": "jamaica"
+    },
+    {
+        "img": "/img/jp.png",
+        "options": [
+            "japan",
+            "south korea",
+            "north korea",
+            "italy"
+        ],
+        "right_answer": "japan"
+    },
+    {
+        "img": "/img/je.png",
+        "options": [
+            "isle of man",
+            "jordan",
+            "indonesia",
+            "jersey"
+        ],
+        "right_answer": "jersey"
+    },
+    {
+        "img": "/img/jo.png",
+        "options": [
+            "mauritius",
+            "pakistan",
+            "kazakhstan",
+            "jordan"
+        ],
+        "right_answer": "jordan"
+    },
+    {
+        "img": "/img/kz.png",
+        "options": [
+            "kazakhstan",
+            "pakistan",
+            "uzbekistan",
+            "Kyrgyzstan"
+        ],
+        "right_answer": "kazakhstan"
+    },
+    {
+        "img": "/img/ke.png",
+        "options": [
+            "mauritius",
+            "guana",
+            "madagaskar",
+            "kenya"
+        ],
+        "right_answer": "kenya"
+    },
+    {
+        "img": "/img/ki.png",
+        "options": [
+            "kuwait",
+            "pakistan",
+            "kiribati",
+            "jordan"
+        ],
+        "right_answer": "kiribati"
+    },
+    {
+        "img": "/img/kw.png",
+        "options": [
+            "mauritius",
+            "kuwait",
+            "kazakhstan",
+            "jordan"
+        ],
+        "right_answer": "kuwait"
+    },
+    {
+        "img": "/img/kg.png",
+        "options": [
+            "kazakhstan",
+            "pakistan",
+            "uzbekistan",
+            "Kyrgyzstan"
+        ],
+        "right_answer": "Kyrgyzstan"
+    },
+    {
+        "img": "/img/la.png",
+        "options": [
+            "Madagascar",
+            "cabo verde",
+            "Lao People's Democratic Republic",
+            "cuba"
+        ],
+        "right_answer": "Lao People's Democratic Republic"
+    },
+    {
+        "img": "/img/lv.png",
+        "options": ["Estonia", "Latvia", "Lithuania", "Belarus"],
+        "right_answer": "Latvia"
+    },    
+    {
+        "img": "/img/lb.png",
+        "options": [
+            "Madagascar",
+            "cabo verde",
+            "Lao People's Democratic Republic",
+            "lebanon"
+        ],
+        "right_answer": "lebanon"
+    },
+    {
+        "img": "/img/ls.png",
+        "options": ["Liberia", "Lesotho", "Togo", "Bulgaria"],
+        "right_answer": "Lesotho"
+    },
+    {
+        "img": "/img/lr.png",
+        "options": ["Bulgaria", "Lesotho", "Liberia", "Togo"],
+        "right_answer": "Liberia"
+    },
+    {
+        "img": "/img/ly.png",
+        "options": [
+            "kazakhstan",
+            "pakistan",
+            "libya",
+            "Kyrgyzstan"
+        ],
+        "right_answer": "libya"
+    },
+    {
+        "img": "/img/li.png",
+        "options": [
+            "laos",
+            "Liechtenstein",
+            "libya",
+            "Kyrgyzstan"
+        ],
+        "right_answer": "Liechtenstein"
+    },
+    {
+        "img": "/img/lt.png",
+        "options": [
+            "Luxembourg",
+            "Latvia",
+            "Lithuania",
+            "Lesotho"
+        ],
+        "right_answer": "Lithuania"
+    },
+    {
+        "img": "/img/lu.png",
+        "options": [
+            "Lithuania",
+            "Latvia",
+            "Lebanon",
+            "Luxembourg"
+        ],
+        "right_answer": "Luxembourg"
+    },
+    {
+        "img": "/img/mo.png",
+        "options": [
+            "Maldives",
+            "Mongolia",
+            "Moldova",
+            "Macao"
+        ],
+        "right_answer": "Macao"
+    },
+    {
+        "img": "/img/mk.png",
+        "options": [
+            "Monaco",
+            "Morocco",
+            "Malta",
+            "Macedonia (the former Yugoslav Republic of)"
+        ],
+        "right_answer": "Macedonia (the former Yugoslav Republic of)"
+    },
+    {
+        "img": "/img/mg.png",
+        "options": [
+            "Mali",
+            "Madagascar",
+            "Mexico",
+            "Moldova"
+        ],
+        "right_answer": "Madagascar"
+    },
+    {
+        "img": "/img/mw.png",
+        "options": [
+            "Mozambique",
+            "Malawi",
+            "Maldives",
+            "Mongolia"
+        ],
+        "right_answer": "Malawi"
+    },
+    {
+        "img": "/img/my.png",
+        "options": [
+            "Moldova",
+            "Mali",
+            "Malaysia",
+            "Morocco"
+        ],
+        "right_answer": "Malaysia"
+    },
+    {
+        "img": "/img/mv.png",
+        "options": ["Maldives", "Madagascar", "Monaco", "Mauritius"],
+        "right_answer": "Maldives"
+    },
+    {
+        "img": "/img/ml.png",
+        "options": ["Moldova", "Mali", "Mauritania", "Macao"],
+        "right_answer": "Mali"
+    },
+    {
+        "img": "/img/mt.png",
+        "options": ["Mauritania", "Monaco", "Malta", "Macedonia (the former Yugoslav Republic of)"],
+        "right_answer": "Malta"
+    },
+    {
+        "img": "/img/mh.png",
+        "options": ["Malta", "Marshall Islands", "Marshall Islands", "Malawi"],
+        "right_answer": "Marshall Islands"
+    },
+    {
+        "img": "/img/mq.png",
+        "options": ["Martinique", "Malaysia", "Moldova", "Mongolia"],
+        "right_answer": "Martinique"
+    },
+    {
+        "img": "/img/mr.png",
+        "options": ["Mauritania", "Mauritius", "Morocco", "Moldova"],
+        "right_answer": "Mauritania"
+    },
+    {
+        "img": "/img/mu.png",
+        "options": ["Mongolia", "Mauritius", "Mauritania", "Moldova"],
+        "right_answer": "Mauritius"
+    },
+    {
+        "img": "/img/yt.png",
+        "options": [
+            "Malawi",
+            "Martinique",
+            "Mayotte",
+            "Moldova"
+        ],
+        "right_answer": "Mayotte"
+    },
+    {
+        "img": "/img/mx.png",
+        "options": [
+            "Monaco",
+            "Mauritania",
+            "Mali",
+            "Mexico"
+        ],
+        "right_answer": "Mexico"
+    },
+    {
+        "img": "/img/fm.png",
+        "options": [
+            "mauritius",
+            "rwanda",
+            "Micronesia (Federated States of)",
+            "indonesia"
+        ],
+        "right_answer": "Micronesia (Federated States of)"
+    },
+    {
+        "img": "/img/md.png",
+        "options": ["Monaco", "Mongolia", "Montenegro", "Moldova (Republic of)"],
+        "right_answer": "Moldova (Republic of)"
+    },
+    {
+        "img": "/img/mc.png",
+        "options": ["Mongolia", "Moldova (Republic of)", "Montenegro", "Monaco"],
+        "right_answer": "Monaco"
+    },
+    {
+        "img": "/img/mn.png",
+        "options": ["Montenegro", "Moldova (Republic of)", "Monaco", "Mongolia"],
+        "right_answer": "Mongolia"
+    },
+    {
+        "img": "/img/me.png",
+        "options": ["Monaco", "Mongolia", "Montserrat", "Montenegro"],
+        "right_answer": "Montenegro"
+    },
+    {
+        "img": "/img/ms.png",
+        "options": ["Mongolia", "Montenegro", "Moldova (Republic of)", "Montserrat"],
+        "right_answer": "Montserrat"
+    },
+    {
+        "img": "/img/ma.png",
+        "options": ["Morocco", "Mongolia", "Moldova (Republic of)", "Mauritania"],
+        "right_answer": "Morocco"
+    },
+    {
+        "img": "/img/mz.png",
+        "options": ["Moldova (Republic of)", "Mongolia", "Mali", "Mozambique"],
+        "right_answer": "Mozambique"
+    },
+    {
+        "img": "/img/mm.png",
+        "options": ["Montenegro", "Mali", "Mexico", "Myanmar"],
+        "right_answer": "Myanmar"
+    },
+    {
+        "img": "/img/na.png",
+        "options": ["Mongolia", "Morocco", "Mauritania", "Namibia"],
+        "right_answer": "Namibia"
+    },
+    {
+        "img": "/img/nr.png",
+        "options": ["Monaco", "Montenegro", "Moldova (Republic of)", "Nauru"],
+        "right_answer": "Nauru"
+    },
+    {
+        "img": "/img/np.png",
+        "options": ["Moldova (Republic of)", "Malawi", "Mali", "Nepal"],
+        "right_answer": "Nepal"
+    },
+    {
+        "img": "/img/nl.png",
+        "options": ["Mongolia", "Moldova (Republic of)", "Monaco", "Netherlands"],
+        "right_answer": "Netherlands"
+    },
+    {
+        "img": "/img/nc.png",
+        "options": ["Nigeria", "Nicaragua", "New Caledonia", "Niger"],
+        "right_answer": "New Caledonia"
+    },
+    {
+        "img": "/img/nz.png",
+        "options": ["New Zealand", "Niue", "Nicaragua", "New Caledonia"],
+        "right_answer": "New Zealand"
+    },
+    {
+        "img": "/img/ni.png",
+        "options": ["Niue", "Nicaragua", "Nigeria", "Niger"],
+        "right_answer": "Nicaragua"
+    },
+    {
+        "img": "/img/ne.png",
+        "options": ["New Zealand", "Nigeria", "Niger", "New Caledonia"],
+        "right_answer": "Niger"
+    },
+    {
+        "img": "/img/ng.png",
+        "options": ["Nigeria", "New Caledonia", "Niue", "Niger"],
+        "right_answer": "Nigeria"
+    },
+    {
+        "img": "/img/nu.png",
+        "options": ["New Zealand", "Niue", "Nicaragua", "New Caledonia"],
+        "right_answer": "Niue"
+    },
+    {
+        "img": "/img/nf.png",
+        "options": ["New Caledonia", "Nicaragua", "Niger", "Norfolk Island"],
+        "right_answer": "Norfolk Island"
+    },
+    {
+        "img": "/img/kp.png",
+        "options": [
+            "venezuela",
+            "colombia",
+            "ecuador",
+            "Korea (Democratic People's Republic of)"
+        ],
+        "right_answer": "Korea (Democratic People's Republic of)"
+    },
+    {
+        "img": "/img/mp.png",
+        "options": ["Northern Mariana Islands", "Palau", "Pakistan", "Norway"],
+        "right_answer": "Northern Mariana Islands"
+    },
+    {
+        "img": "/img/no.png",
+        "options": ["Oman", "Norway", "Pakistan", "Palestine, State of"],
+        "right_answer": "Norway"
+    },
+    {
+        "img": "/img/om.png",
+        "options": ["Panama", "Oman", "Palau", "Papua New Guinea"],
+        "right_answer": "Oman"
+    },
+    {
+        "img": "/img/pk.png",
+        "options": ["Peru", "Pakistan", "Papua New Guinea", "Panama"],
+        "right_answer": "Pakistan"
+    },
+    {
+        "img": "/img/pw.png",
+        "options": ["Palestine, State of", "Papua New Guinea", "Palau", "Paraguay"],
+        "right_answer": "Palau"
+    },
+    {
+        "img": "/img/ps.png",
+        "options": ["Paraguay", "Palestine, State of", "Peru", "Panama"],
+        "right_answer": "Palestine, State of"
+    },
+    {
+        "img": "/img/pa.png",
+        "options": ["Paraguay", "Panama", "Papua New Guinea", "Peru"],
+        "right_answer": "Panama"
+    },
+    {
+        "img": "/img/pg.png",
+        "options": ["Peru", "Papua New Guinea", "Paraguay", "Panama"],
+        "right_answer": "Papua New Guinea"
+    },
+    {
+        "img": "/img/py.png",
+        "options": ["Paraguay", "Peru", "Papua New Guinea", "Palestine, State of"],
+        "right_answer": "Paraguay"
+    },
+    {
+        "img": "/img/pe.png",
+        "options": ["Papua New Guinea", "Panama", "Peru", "Palestine, State of"],
+        "right_answer": "Peru"
+    },
+    {
+        "img": "/img/ph.png",
+        "options": ["Poland", "Pitcairn", "Philippines", "Portugal"],
+        "right_answer": "Philippines"
+    },
+    {
+        "img": "/img/pn.png",
+        "options": ["Puerto Rico", "Pitcairn", "Poland", "Portugal"],
+        "right_answer": "Pitcairn"
+    },
+    {
+        "img": "/img/pl.png",
+        "options": ["Poland", "Pitcairn", "Philippines", "Puerto Rico"],
+        "right_answer": "Poland"
+    },
+    {
+        "img": "/img/pt.png",
+        "options": ["Portugal", "Poland", "Pitcairn", "Philippines"],
+        "right_answer": "Portugal"
+    },
+    {
+        "img": "/img/pr.png",
+        "options": ["Réunion", "Romania", "Puerto Rico", "Portugal"],
+        "right_answer": "Puerto Rico"
+    },
+    {
+        "img": "/img/qa.png",
+        "options": ["Réunion", "Romania", "Qatar", "Republic of Kosovo"],
+        "right_answer": "Qatar"
+    },
+    {
+        "img": "/img/xk.png",
+        "options": ["Republic of Kosovo", "Romania", "Réunion", "Qatar"],
+        "right_answer": "Republic of Kosovo"
+    },
+    {
+        "img": "/img/re.png",
+        "options": ["Réunion", "Romania", "Republic of Kosovo", "Portugal"],
+        "right_answer": "Réunion"
+    },
+    {
+        "img": "/img/ro.png",
+        "options": ["Romania", "Réunion", "Republic of Kosovo", "Portugal"],
+        "right_answer": "Romania"
+    },
+    {
+        "img": "/img/ru.png",
+        "options": ["Portugal", "Romania", "Russian Federation", "Réunion"],
+        "right_answer": "Russian Federation"
+    },    
+    {
+        "img": "/img/rw.png",
+        "options": ["Réunion", "Romania", "Rwanda", "Russian Federation"],
+        "right_answer": "Rwanda"
+    },
+    {
+        "img": "/img/bl.png",
+        "options": [
+            "Saint Barthélemy",
+            "egypt",
+            "tunisia",
+            "mexico"
+        ],
+        "right_answer": "Saint Barthélemy"
+    },
+    {
+        "img": "/img/sh.png",
+        "options": ["Réunion", "Rwanda", "Saint Helena, Ascension and Tristan da Cunha", "Russian Federation"],
+        "right_answer": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+        "img": "/img/kn.png",
+        "options": [
+            "saint kitts and nevis",
+            "guyana",
+            "saint helena, ascension and tristan de cunha",
+            "brazil"
+        ],
+        "right_answer": "saint kitts and nevis"
+    },
+    {
+        "img": "/img/lc.png",
+        "options": [
+            "saint kitts and nevis",
+            "Saint Lucia",
+            "Lao People's Democratic Republic",
+            "Saint Martin (French part)"
+        ],
+        "right_answer": "Saint Lucia"
+    },
+    {
+        "img": "/img/mf.png",
+        "options": ["Saint Vincent and the Grenadines", "San Marino", "Saint Martin (French part)", "Saint Pierre and Miquelon"],
+        "right_answer": "Saint Martin (French part)"
+    },
+    {
+        "img": "/img/pm.png",
+        "options": ["Samoa", "Sao Tome and Principe", "Saint Pierre and Miquelon", "Saint Martin (French part)"],
+        "right_answer": "Saint Pierre and Miquelon"
+    },
+    {
+        "img": "/img/vc.png",
+        "options": ["Senegal", "Seychelles", "Saint Vincent and the Grenadines", "Sint Maarten (Dutch part)"],
+        "right_answer": "Saint Vincent and the Grenadines"
+    },
+    {
+        "img": "/img/ws.png",
+        "options": ["Seychelles", "Singapore", "Samoa", "Saudi Arabia"],
+        "right_answer": "Samoa"
+    },
+    {
+        "img": "/img/sm.png",
+        "options": ["Singapore", "Sint Maarten (Dutch part)", "San Marino", "Sao Tome and Principe"],
+        "right_answer": "San Marino"
+    },
+    {
+        "img": "/img/st.png",
+        "options": ["Sint Maarten (Dutch part)", "Sao Tome and Principe", "Sierra Leone", "Serbia"],
+        "right_answer": "Sao Tome and Principe"
+    },
+    {
+        "img": "/img/sa.png",
+        "options": ["Senegal", "Saudi Arabia", "Seychelles", "Sierra Leone"],
+        "right_answer": "Saudi Arabia"
+    },
+    {
+        "img": "/img/sn.png",
+        "options": ["Singapore", "Sierra Leone", "Sint Maarten (Dutch part)", "Senegal"],
+        "right_answer": "Senegal"
+    },
+    {
+        "img": "/img/rs.png",
+        "options": ["Sint Maarten (Dutch part)", "Serbia", "Seychelles", "Samoa"],
+        "right_answer": "Serbia"
+    },
+    {
+        "img": "/img/sc.png",
+        "options": ["Samoa", "Sierra Leone", "Sao Tome and Principe", "Seychelles"],
+        "right_answer": "Seychelles"
+    },
+    {
+        "img": "/img/sl.png",
+        "options": ["Sierra Leone", "San Marino", "Singapore", "Saint Pierre and Miquelon"],
+        "right_answer": "Sierra Leone"
+    },
+    {
+        "img": "/img/sg.png",
+        "options": ["Saint Vincent and the Grenadines", "Sierra Leone", "Singapore", "Saint Martin (French part)"],
+        "right_answer": "Singapore"
+    },
+    {
+        "img": "/img/sx.png",
+        "options": ["Saint Pierre and Miquelon", "Saint Martin (French part)", "Sint Maarten (Dutch part)", "San Marino"],
+        "right_answer": "Sint Maarten (Dutch part)"
+    },
+    {
+        "img": "/img/sk.png",
+        "options": ["South Africa", "Slovenia", "Solomon Islands", "Slovakia"],
+        "right_answer": "Slovakia"
+    },
+    {
+        "img": "/img/si.png",
+        "options": ["Somalia", "Slovakia", "Slovenia", "South Africa"],
+        "right_answer": "Slovenia"
+    },
+    {
+        "img": "/img/sb.png",
+        "options": ["Solomon Islands", "Slovakia", "Slovenia", "Somalia"],
+        "right_answer": "Solomon Islands"
+    },
+    {
+        "img": "/img/so.png",
+        "options": ["Slovakia", "South Africa", "Slovenia", "Somalia"],
+        "right_answer": "Somalia"
+    },
+    {
+        "img": "/img/za.png",
+        "options": ["South Africa", "Slovenia", "Solomon Islands", "Slovakia"],
+        "right_answer": "South Africa"
+    },
+    {
+        "img": "/img/gs.png",
+        "options": [
+            "Saint Barthélemy",
+            "south sudan",
+            "tunisia",
+            "South Georgia and the South Sandwich Islands"
+        ],
+        "right_answer": "South Georgia and the South Sandwich Islands"
+    },
+    {
+        "img": "/img/kr.png",
+        "options": [
+            "Saint Barthélemy",
+            "south sudan",
+            "Korea (Republic of)",
+            "Korea (Democratic People's Republic of)"
+        ],
+        "right_answer": "Korea (Republic of)"
+    },
+    {
+        "img": "/img/ss.png",
+        "options": ["Solomon Islands", "South Sudan", "Somalia", "Slovakia"],
+        "right_answer": "South Sudan"
+    },
+    {
+        "img": "/img/es.png",
+        "options": [
+            "zimbabwe",
+            "tanzania",
+            "spain",
+            "jordan"
+        ],
+        "right_answer": "spain"
+    },
+    {
+        "img": "/img/lk.png",
+        "options": ["Sudan", "Svalbard and Jan Mayen", "Sri Lanka", "Suriname"],
+        "right_answer": "Sri Lanka"
+    },
+    {
+        "img": "/img/sd.png",
+        "options": ["Svalbard and Jan Mayen", "Sweden", "Suriname", "Sudan"],
+        "right_answer": "Sudan"
+    },
+    {
+        "img": "/img/sr.png",
+        "options": ["Svalbard and Jan Mayen", "Suriname", "Sri Lanka", "Swaziland"],
+        "right_answer": "Suriname"
+    },
+    {
+        "img": "/img/sj.png",
+        "options": ["Sweden", "Swaziland", "Svalbard and Jan Mayen", "Sudan"],
+        "right_answer": "Svalbard and Jan Mayen"
+    },
+    {
+        "img": "/img/sz.png",
+        "options": ["Sri Lanka", "Swaziland", "Sudan", "Sweden"],
+        "right_answer": "Swaziland"
+    },
+    {
+        "img": "/img/se.png",
+        "options": ["Suriname", "Sweden", "Svalbard and Jan Mayen", "Swaziland"],
+        "right_answer": "Sweden"
+    },
+    {
+        "img": "/img/ch.png",
+        "options": [
+            "switzerland",
+            "russia",
+            "luxembourg",
+            "south sudan"
+        ],
+        "right_answer": "switzerland"
+    },
+    {
+        "img": "/img/sy.png",
+        "options": ["Tajikistan", "Taiwan", "Syrian Arab Republic", "Timor-Leste"],
+        "right_answer": "Syrian Arab Republic"
+    },
+    {
+        "img": "/img/tw.png",
+        "options": ["Thailand", "Timor-Leste", "Togo", "Taiwan"],
+        "right_answer": "Taiwan"
+    },
+    {
+        "img": "/img/tj.png",
+        "options": ["Tunisia", "Timor-Leste", "Tajikistan", "Trinidad and Tobago"],
+        "right_answer": "Tajikistan"
+    },
+    {
+        "img": "/img/tz.png",
+        "options": ["Thailand", "Tonga", "Tanzania, United Republic of", "Timor-Leste"],
+        "right_answer": "Tanzania, United Republic of"
+    },
+    {
+        "img": "/img/th.png",
+        "options": ["Trinidad and Tobago", "Thailand", "Tajikistan", "Tunisia"],
+        "right_answer": "Thailand"
+    },
+    {
+        "img": "/img/tl.png",
+        "options": ["Tonga", "Timor-Leste", "Tajikistan", "Taiwan"],
+        "right_answer": "Timor-Leste"
+    },
+    {
+        "img": "/img/tg.png",
+        "options": ["Tunisia", "Tajikistan", "Togo", "Tonga"],
+        "right_answer": "Togo"
+    },
+    {
+        "img": "/img/tk.png",
+        "options": ["Tonga", "Taiwan", "Timor-Leste", "Tokelau"],
+        "right_answer": "Tokelau"
+    },
+    {
+        "img": "/img/to.png",
+        "options": ["Taiwan", "Trinidad and Tobago", "Tunisia", "Tonga"],
+        "right_answer": "Tonga"
+    },
+    {
+        "img": "/img/tt.png",
+        "options": ["Togo", "Taiwan", "Trinidad and Tobago", "Tunisia"],
+        "right_answer": "Trinidad and Tobago"
+    },
+    {
+        "img": "/img/tn.png",
+        "options": ["Tajikistan", "Tunisia", "Thailand", "Trinidad and Tobago"],
+        "right_answer": "Tunisia"
+    },
+    {
+        "img": "/img/tr.png",
+        "options": ["Turks and Caicos Islands", "Uganda", "Turkey", "Ukraine"],
+        "right_answer": "Turkey"
+    },
+    {
+        "img": "/img/tm.png",
+        "options": ["Turkmenistan", "Uganda", "Tuvalu", "Turkey"],
+        "right_answer": "Turkmenistan"
+    },
+    {
+        "img": "/img/tc.png",
+        "options": ["Ukraine", "Turkey", "Turks and Caicos Islands", "Tuvalu"],
+        "right_answer": "Turks and Caicos Islands"
+    },
+    {
+        "img": "/img/tv.png",
+        "options": ["Ukraine", "Tuvalu", "Turkey", "Uganda"],
+        "right_answer": "Tuvalu"
+    },
+    {
+        "img": "/img/ug.png",
+        "options": ["Uganda", "Turkey", "Turkmenistan", "Tuvalu"],
+        "right_answer": "Uganda"
+    },
+    {
+        "img": "/img/ua.png",
+        "options": ["Ukraine", "Turkey", "Tuvalu", "Turks and Caicos Islands"],
+        "right_answer": "Ukraine"
+    },
+    {
+        "img": "/img/ae.png",
+        "options": [
+            "palestine",
+            "united arab emirates",
+            "sudan",
+            "qatar"
+        ],
+        "right_answer": "united arab emirates"
+    },
+    {
+        "img": "/img/gb.png",
+        "options": [
+            "scotland",
+            "ireland",
+            "Ukraine",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "right_answer": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+        "img": "/img/gb-wls.png",
+        "options": [
+            "England and wales",
+            "ireland",
+            "Ukraine",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "right_answer": "England and wales"
+    },
+    {
+        "img": "/img/gb-sct.png",
+        "options": [
+            "scotland",
+            "ireland",
+            "Ukraine",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "right_answer": "scotland"
+    },
+    {
+        "img": "/img/us.png",
+        "options": ["Uruguay", "Uzbekistan", "United States of America", "Venezuela (Bolivarian Republic of)"],
+        "right_answer": "United States of America"
+    },
+    {
+        "img": "/img/uy.png",
+        "options": ["Viet Nam", "Venezuela (Bolivarian Republic of)", "Uruguay", "Uzbekistan"],
+        "right_answer": "Uruguay"
+    },
+    {
+        "img": "/img/uz.png",
+        "options": ["Viet Nam", "Uzbekistan", "United States of America", "Venezuela (Bolivarian Republic of)"],
+        "right_answer": "Uzbekistan"
+    },
+    {
+        "img": "/img/vu.png",
+        "options": ["Vanuatu", "Venezuela (Bolivarian Republic of)", "United States of America", "Viet Nam"],
+        "right_answer": "Vanuatu"
+    },
+    {
+        "img": "/img/ve.png",
+        "options": ["Viet Nam", "United States of America", "Vanuatu", "Venezuela (Bolivarian Republic of)"],
+        "right_answer": "Venezuela (Bolivarian Republic of)"
+    },
+    {
+        "img": "/img/vn.png",
+        "options": ["Wallis and Futuna", "Venezuela (Bolivarian Republic of)", "Viet Nam", "Uruguay"],
+        "right_answer": "Viet Nam"
+    },
+    {
+        "img": "/img/wf.png",
+        "options": ["Viet Nam", "Uruguay", "Wallis and Futuna", "Uzbekistan"],
+        "right_answer": "Wallis and Futuna"
+    },
+    {
+        "img": "/img/eh.png",
+        "options": [
+            "Wallis and Futuna",
+            "Western Sahara",
+            "sudan",
+            "Yemen"
+        ],
+        "right_answer": "Western Sahara"
+    },
+    {
+        "img": "/img/ye.png",
+        "options": ["Zambia", "Yemen", "Zimbabwe", "Wallis and Futuna"],
+        "right_answer": "Yemen"
+    },
+    {
+        "img": "/img/zm.png",
+        "options": ["Wallis and Futuna", "Yemen", "Zimbabwe", "Zambia"],
+        "right_answer": "Zambia"
+    },
+    {
+        "img": "/img/zw.png",
+        "options": ["Zimbabwe", "Zambia", "Yemen", "Wallis and Futuna"],
+        "right_answer": "Zimbabwe"
+    }
+]

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="center">
+        <h1 class="FlagGame">Game Over</h1>
+        <div class="FlagGame">Your final score is: <span id="finalScore">0</span></div>
+    </div>
+    <script>
+        window.addEventListener("DOMContentLoaded", function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const finalScoreElement = document.getElementById("finalScore");
+
+            if (urlParams.has("score")) {
+                const finalScore = urlParams.get("score");
+                finalScoreElement.textContent = finalScore;
+            }
+        });
+    </script>
+</body>
+</html>

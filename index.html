@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flag Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="FlagGame">
+        <div class="Flag-Wrapper">
+            <div>
+                <img alt="">
+            </div>
+            <div class="options">
+                <table>
+                    <tr>
+                        <td><button class="optionButton" data-option="firstOption">Option 1</button></td>
+                        <td><button class="optionButton" data-option="SecondOption">Option 2</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="optionButton" data-option="ThirdOption">Option 3</button></td>
+                        <td><button class="optionButton" data-option="FourthOption">Option 4</button></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="score">Score: <span id="scoreValue">0</span></div>
+            <div class="lives">Lives: <span id="livesValue">3</span></div>
+        </div>
+    </section>
+    
+    <script src="app.js"></script>
+</body>
+</html>
